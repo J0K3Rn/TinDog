@@ -4,7 +4,14 @@ View the site at: https://j0k3rn.github.io/TinDog/
 
 Website Utilizes:
 
-Html/CSS
+Reactiveness (For PC, tablet, and mobile)
+
+Html5
+
+CSS
+- Organized classes and sections
+
+Z-Index and Stacking Order
 
 Functional Hyperlinks
 
